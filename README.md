@@ -1,3 +1,3 @@
-# blez-template
+# nuclei_templates
 
 use it well friend
